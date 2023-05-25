@@ -13,10 +13,10 @@
 
 ### Get in touch
 
-<p align="left"><a href="zhangcz2021@mail.sustech.edu.cn"><img width="4%" src="./image/email_cion.svg" /></a>
-<a href="https://github.com/ChrisZcu/"><img width="4%" src="./image/github-fill.svg" /></a>
-<a href="https://twitter.com/TeeChris13/"><img width="4%" src="./image/twitter.svg" /></a>
-<a href="https://www.instagram.com/chrizcu/"><img width="4%" src="./image/ins.svg" /></a></p>
+<p align="left"><a href="zhangcz2021@mail.sustech.edu.cn"><img width="3%" src="./image/email_cion.svg" /></a>
+<a href="https://github.com/ChrisZcu/"><img width="3%" src="./image/github-fill.svg" /></a>
+<a href="https://twitter.com/TeeChris13/"><img width="3%" src="./image/twitter.svg" /></a>
+<a href="https://www.instagram.com/chrizcu/"><img width="3%" src="./image/ins.svg" /></a></p>
 
 <!-- [![Email](./image/email_cion.svg)](zhangcz2021@mail.sustech.edu.cn)
 [![GitHub](./image/github-fill.svg)](https://github.com/ChrisZcu)
