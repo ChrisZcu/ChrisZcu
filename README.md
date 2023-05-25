@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisZcu&show_icons=true&theme=radical&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f0d56d7c-fed6-4433-818d-56a78b9d13b2/deploy-status)](https://app.netlify.com/sites/chaozu/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f0d56d7c-fed6-4433-818d-56a78b9d13b2/deploy-status)](https://chaozu.netlify.app/)
 
 ### Get in touch
 
