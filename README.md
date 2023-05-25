@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisZcu)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisZcu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisZcu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisZcu&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ChrisZcu/ChrisZcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
