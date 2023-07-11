@@ -1,9 +1,9 @@
 ### Hi there 👋
 <font size=4>😄This is Chaozu Zhang (张超祖), a master student in [Department of Computer Science and Engineering](https://cse.sustech.edu.cn/) at Southern University of Science and Technology ([SUSTech](www.sustech.edu.cn)).</font>
  
-<font size=4>I am a member of DBGroup@SUSTech lab, advised by [Prof. Qiaomu Shen](https://www.shenqiaomu.com/about/) and [Prof. Bo Tang](https://acm.sustech.edu.cn/btang/). My research interests include big data system, spatialtemporal data and visualization. Recently I am trying to improve the efficiency of current distributed system (e.g., Hive, Spark and Hadoop) via heterogeneous computing and visualization technology.</font>
+<font size=4>I am a member of DBGroup@SUSTech lab, advised by [Prof. Qiaomu Shen](https://www.shenqiaomu.com/about/) and [Prof. Bo Tang](https://acm.sustech.edu.cn/btang/). My research interests include big data system, database, spatialtemporal data and visualization. Recently I am trying to improve the efficiency of current distributed system (e.g., Hive, Spark and Hadoop) via heterogeneous computing and visualization technology.</font>
 
-<font size=4>Now I am interning at [Tencent PCG group](https://www.tencent.com/en-us/), acting as a data engineer in the Data Platform Center. I am also looking for a job, feel free [to contact with me](zhangcz2021@mail.sustech.edu.cn) if you are intersted in me, or we share common research interst.</font>
+<font size=4>Now I am interning at [Tencent PCG group](https://www.tencent.com/en-us/), acting as a data engineer in the Data Platform Center. Feel free [to contact with me](zhangcz2021@mail.sustech.edu.cn) if you are intersted in me, or we share common research interst.</font>
 <br/>
 
 
