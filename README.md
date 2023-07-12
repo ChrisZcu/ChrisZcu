@@ -7,7 +7,8 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisZcu&show_icons=true&theme=radical&hide_border=true&card_width=400&line_height=20&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisZcu&show_icons=true&theme=radical&hide_border=true&card_width=400&line_height=20&count_private=true&include_all_commits=false)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisZcu&show_icons=true&theme=radical&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 
